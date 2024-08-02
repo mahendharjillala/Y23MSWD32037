@@ -3,7 +3,7 @@ import React from 'react'
 const User = ({name,type}) => {
   return (
     <user>
-    <h1>WELCOME {name} as login as {type} </h1>
+    <h1>WELCOME {name} logged in as {type} </h1>
     </user>
       
   )
